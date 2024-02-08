@@ -108,7 +108,9 @@
 		"unsafe_colors": {
 			"CHAT_GREY": "#313244"
 		},
-    "background": {
-      "url": "https://wallpaperaccess.com/full/2390784.png"
-    }
+		"background": {
+			"blur": 0.1,
+			"url": "https://cdn.discordapp.com/attachments/949230769824481291/1100818236376883260/E2AA26F1-A992-4385-9913-B6AEC9C6DBCE.jpg",
+			"alpha": 0.4
+		}
 }
